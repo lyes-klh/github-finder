@@ -2,6 +2,8 @@
 
 A React App to search Github profiles and see profile details.
 
+[Live Demo](https://condescending-lewin-26d4e7.netlify.app 'Github Finder')
+
 ## Technologies
 
 <ul>
