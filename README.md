@@ -2,7 +2,7 @@
 
 A React App to search Github profiles and see profile details.
 
-[Live Demo](https://condescending-lewin-26d4e7.netlify.app 'Github Finder')
+[Live Demo](https://github-finder-phi-eight.vercel.app/ 'Github Finder')
 
 ## Technologies
 
