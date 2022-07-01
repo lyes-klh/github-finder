@@ -5,7 +5,7 @@ import Home from './pages/Home';
 import User from './pages/User';
 import About from './pages/About';
 import NotFound from './pages/NotFound';
-import { GithubProvider } from './context/github/GuthubContext';
+import { GithubProvider } from './context/github/GithubContext';
 
 function App() {
   return (

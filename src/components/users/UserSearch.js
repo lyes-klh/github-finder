@@ -1,6 +1,6 @@
 import { useState, useContext } from 'react';
 import { BiXCircle } from 'react-icons/bi';
-import GithubContext from '../../context/github/GuthubContext';
+import GithubContext from '../../context/github/GithubContext';
 import { getUsers } from '../../context/github/GithubActions';
 
 function UserSearch() {

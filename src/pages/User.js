@@ -3,7 +3,7 @@ import RepoList from '../components/repos/RepoList';
 import UserInfo from '../components/users/UserInfo';
 import { useParams, useNavigate } from 'react-router-dom';
 import { getUserAndRepos } from '../context/github/GithubActions';
-import GithubContext from '../context/github/GuthubContext';
+import GithubContext from '../context/github/GithubContext';
 import Spinner from '../components/layout/Spinner';
 
 function User() {

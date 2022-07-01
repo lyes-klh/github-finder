@@ -1,7 +1,7 @@
 import { useContext } from 'react';
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
-import GithubContext from '../../context/github/GuthubContext';
+import GithubContext from '../../context/github/GithubContext';
 
 function UserItem({ user }) {
   const { dispatch } = useContext(GithubContext);
