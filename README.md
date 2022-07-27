@@ -7,7 +7,7 @@ A React App to search Github profiles and see profile details.
 ## Technologies
 
 <ul>
-<li>Tailwind</li>
+<li>Tailwind CSS</li>
 <li>React Js</li>
 <li>React Hooks</li>
 <li>Context API</li>
